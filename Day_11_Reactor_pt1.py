@@ -82,7 +82,6 @@ def main():
         print("\nERROR: 'input.txt' Not Found Bitch")
         return
 
-    # Assuming the puzzle input starts with 'you' and ends with 'out' in the graph structure.
     start_device = 'you'
     end_device = 'out'
 
